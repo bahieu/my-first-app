@@ -15,7 +15,7 @@ body{
 }
 a {
     text-decoration: none;
-    cursor: pointer;
+     cursor: pointer;
 }
 `;
 
